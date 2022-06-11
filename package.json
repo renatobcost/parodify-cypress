@@ -1,0 +1,16 @@
+{
+  "name": "masterclass-cypress",
+  "version": "1.0.0",
+  "description": "estudando page object",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "test": "cypress run"
+  },
+  "author": "Renato",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.1",
+    "faker": "^5.5.3"
+  }
+}
